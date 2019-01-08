@@ -1,0 +1,1230 @@
+fileFormatVersion: 2
+guid: 25028eba1d9a87944bf03b1ffb2249a8
+timeCreated: 1496525702
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Chest
+    100004: Cube
+    100006: Finger1-1_l
+    100008: Finger1-1_r
+    100010: Finger1-2_l
+    100012: Finger1-2_r
+    100014: Finger1-3_l
+    100016: Finger1-3_r
+    100018: Finger2-1_l
+    100020: Finger2-1_r
+    100022: Finger2-2_l
+    100024: Finger2-2_r
+    100026: Finger2-3_l
+    100028: Finger2-3_r
+    100030: Finger3-1_l
+    100032: Finger3-1_r
+    100034: Finger3-2_l
+    100036: Finger3-2_r
+    100038: Finger3-3_l
+    100040: Finger3-3_r
+    100042: Finger4-1_l
+    100044: Finger4-1_r
+    100046: Finger4-2_l
+    100048: Finger4-2_r
+    100050: Finger4-3_l
+    100052: Finger4-3_r
+    100054: Forearm_l
+    100056: Forearm_r
+    100058: Head
+    100060: //RootNode
+    100062: Shin_l
+    100064: Shin_r
+    100066: Shoulder_l
+    100068: Shoulder_r
+    100070: Stomach
+    100072: Thigh_l
+    100074: Thigh_r
+    100076: Toe1_r
+    400000: Armature
+    400002: Chest
+    400004: Cube
+    400006: Finger1-1_l
+    400008: Finger1-1_r
+    400010: Finger1-2_l
+    400012: Finger1-2_r
+    400014: Finger1-3_l
+    400016: Finger1-3_r
+    400018: Finger2-1_l
+    400020: Finger2-1_r
+    400022: Finger2-2_l
+    400024: Finger2-2_r
+    400026: Finger2-3_l
+    400028: Finger2-3_r
+    400030: Finger3-1_l
+    400032: Finger3-1_r
+    400034: Finger3-2_l
+    400036: Finger3-2_r
+    400038: Finger3-3_l
+    400040: Finger3-3_r
+    400042: Finger4-1_l
+    400044: Finger4-1_r
+    400046: Finger4-2_l
+    400048: Finger4-2_r
+    400050: Finger4-3_l
+    400052: Finger4-3_r
+    400054: Forearm_l
+    400056: Forearm_r
+    400058: Head
+    400060: //RootNode
+    400062: Shin_l
+    400064: Shin_r
+    400066: Shoulder_l
+    400068: Shoulder_r
+    400070: Stomach
+    400072: Thigh_l
+    400074: Thigh_r
+    400076: Toe1_r
+    4300000: Cube
+    7400000: Idle
+    7400002: Run
+    7400004: Light Attack
+    7400006: Heavy Attack
+    7400008: Super Part 1
+    7400010: Enter
+    7400012: Victory
+    7400014: Hit
+    7400016: Death
+    7400018: Super Charge Start
+    7400020: Super Charge End
+    7400022: Super Part 2
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: ArmatureAction
+      firstFrame: 2
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Stomach
+        weight: 1
+      - path: Armature/Stomach/Chest
+        weight: 1
+      - path: Armature/Stomach/Chest/Head
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l/Finger1-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l/Finger2-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l/Finger3-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l/Finger4-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r/Finger1-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r/Finger2-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r/Finger3-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r/Finger4-3_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_l/Shin_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_r/Shin_r
+        weight: 1
+      - path: Armature/Toe1_r
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: ArmatureAction
+      firstFrame: 50
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Stomach
+        weight: 1
+      - path: Armature/Stomach/Chest
+        weight: 1
+      - path: Armature/Stomach/Chest/Head
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l/Finger1-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l/Finger2-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l/Finger3-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l/Finger4-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r/Finger1-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r/Finger2-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r/Finger3-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r/Finger4-3_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_l/Shin_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_r/Shin_r
+        weight: 1
+      - path: Armature/Toe1_r
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Light Attack
+      takeName: ArmatureAction
+      firstFrame: 80
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Stomach
+        weight: 1
+      - path: Armature/Stomach/Chest
+        weight: 1
+      - path: Armature/Stomach/Chest/Head
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l/Finger1-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l/Finger2-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l/Finger3-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l/Finger4-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r/Finger1-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r/Finger2-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r/Finger3-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r/Finger4-3_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_l/Shin_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_r/Shin_r
+        weight: 1
+      - path: Armature/Toe1_r
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Heavy Attack
+      takeName: ArmatureAction
+      firstFrame: 110
+      lastFrame: 135
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Stomach
+        weight: 1
+      - path: Armature/Stomach/Chest
+        weight: 1
+      - path: Armature/Stomach/Chest/Head
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l/Finger1-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l/Finger2-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l/Finger3-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l/Finger4-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r/Finger1-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r/Finger2-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r/Finger3-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r/Finger4-3_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_l/Shin_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_r/Shin_r
+        weight: 1
+      - path: Armature/Toe1_r
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Super Part 1
+      takeName: ArmatureAction
+      firstFrame: 145
+      lastFrame: 165
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Stomach
+        weight: 1
+      - path: Armature/Stomach/Chest
+        weight: 1
+      - path: Armature/Stomach/Chest/Head
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l/Finger1-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l/Finger2-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l/Finger3-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l/Finger4-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r/Finger1-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r/Finger2-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r/Finger3-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r/Finger4-3_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_l/Shin_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_r/Shin_r
+        weight: 1
+      - path: Armature/Toe1_r
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Enter
+      takeName: ArmatureAction
+      firstFrame: 180
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Stomach
+        weight: 1
+      - path: Armature/Stomach/Chest
+        weight: 1
+      - path: Armature/Stomach/Chest/Head
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l/Finger1-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l/Finger2-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l/Finger3-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l/Finger4-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r/Finger1-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r/Finger2-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r/Finger3-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r/Finger4-3_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_l/Shin_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_r/Shin_r
+        weight: 1
+      - path: Armature/Toe1_r
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Victory
+      takeName: ArmatureAction
+      firstFrame: 240
+      lastFrame: 299
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Stomach
+        weight: 1
+      - path: Armature/Stomach/Chest
+        weight: 1
+      - path: Armature/Stomach/Chest/Head
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l/Finger1-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l/Finger2-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l/Finger3-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l/Finger4-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r/Finger1-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r/Finger2-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r/Finger3-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r/Finger4-3_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_l/Shin_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_r/Shin_r
+        weight: 1
+      - path: Armature/Toe1_r
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit
+      takeName: Default Take
+      firstFrame: 310
+      lastFrame: 344
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Stomach
+        weight: 1
+      - path: Armature/Stomach/Chest
+        weight: 1
+      - path: Armature/Stomach/Chest/Head
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l/Finger1-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l/Finger2-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l/Finger3-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l/Finger4-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r/Finger1-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r/Finger2-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r/Finger3-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r/Finger4-3_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_l/Shin_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_r/Shin_r
+        weight: 1
+      - path: Armature/Toe1_r
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: ArmatureAction
+      firstFrame: 350
+      lastFrame: 384
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Stomach
+        weight: 1
+      - path: Armature/Stomach/Chest
+        weight: 1
+      - path: Armature/Stomach/Chest/Head
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l/Finger1-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l/Finger2-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l/Finger3-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l/Finger4-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r/Finger1-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r/Finger2-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r/Finger3-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r/Finger4-3_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_l/Shin_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_r/Shin_r
+        weight: 1
+      - path: Armature/Toe1_r
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Super Part 2
+      takeName: ArmatureAction
+      firstFrame: 165
+      lastFrame: 175
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Stomach
+        weight: 1
+      - path: Armature/Stomach/Chest
+        weight: 1
+      - path: Armature/Stomach/Chest/Head
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger1-1_l/Finger1-2_l/Finger1-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger2-1_l/Finger2-2_l/Finger2-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger3-1_l/Finger3-2_l/Finger3-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_l/Forearm_l/Finger4-1_l/Finger4-2_l/Finger4-3_l
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger1-1_r/Finger1-2_r/Finger1-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger2-1_r/Finger2-2_r/Finger2-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger3-1_r/Finger3-2_r/Finger3-3_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r
+        weight: 1
+      - path: Armature/Stomach/Chest/Shoulder_r/Forearm_r/Finger4-1_r/Finger4-2_r/Finger4-3_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_l/Shin_l
+        weight: 1
+      - path: Armature/Stomach/Thigh_r
+        weight: 1
+      - path: Armature/Stomach/Thigh_r/Shin_r
+        weight: 1
+      - path: Armature/Toe1_r
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: efb9025e5c594e44aa542ceda733ab41
+timeCreated: 1498491545
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Basic Square 7 Solid
+  fontNames:
+  - Basic Square 7 Solid
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
